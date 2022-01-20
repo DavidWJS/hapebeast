@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hapebeast/static/css/main.6e3e5226.chunk.css",
+    "main.js": "/hapebeast/static/js/main.e7e80aa3.chunk.js",
+    "main.js.map": "/hapebeast/static/js/main.e7e80aa3.chunk.js.map",
+    "runtime-main.js": "/hapebeast/static/js/runtime-main.2337d0ba.js",
+    "runtime-main.js.map": "/hapebeast/static/js/runtime-main.2337d0ba.js.map",
+    "static/js/2.cdb6c08d.chunk.js": "/hapebeast/static/js/2.cdb6c08d.chunk.js",
+    "static/js/2.cdb6c08d.chunk.js.map": "/hapebeast/static/js/2.cdb6c08d.chunk.js.map",
+    "static/js/3.fb482bbd.chunk.js": "/hapebeast/static/js/3.fb482bbd.chunk.js",
+    "static/js/3.fb482bbd.chunk.js.map": "/hapebeast/static/js/3.fb482bbd.chunk.js.map",
+    "index.html": "/hapebeast/index.html",
+    "static/css/main.6e3e5226.chunk.css.map": "/hapebeast/static/css/main.6e3e5226.chunk.css.map",
+    "static/js/2.cdb6c08d.chunk.js.LICENSE.txt": "/hapebeast/static/js/2.cdb6c08d.chunk.js.LICENSE.txt",
+    "static/media/1.7bbdbdb8.mp4": "/hapebeast/static/media/1.7bbdbdb8.mp4",
+    "static/media/bars.42b1aa6e.svg": "/hapebeast/static/media/bars.42b1aa6e.svg",
+    "static/media/reset.css": "/hapebeast/static/media/font.617a0a92.woff",
+    "static/media/hape1.9b2c4e40.jpg": "/hapebeast/static/media/hape1.9b2c4e40.jpg",
+    "static/media/hape3.e9a5969c.jpg": "/hapebeast/static/media/hape3.e9a5969c.jpg",
+    "static/media/hape4.2b906afc.jpg": "/hapebeast/static/media/hape4.2b906afc.jpg",
+    "static/media/hape5.c6998c17.jpg": "/hapebeast/static/media/hape5.c6998c17.jpg",
+    "static/media/hape6.56f1a8ca.jpg": "/hapebeast/static/media/hape6.56f1a8ca.jpg",
+    "static/media/hape7.d95424ed.jpg": "/hapebeast/static/media/hape7.d95424ed.jpg",
+    "static/media/hape8.c04f0d31.jpg": "/hapebeast/static/media/hape8.c04f0d31.jpg",
+    "static/media/hape9.8c554a8c.jpg": "/hapebeast/static/media/hape9.8c554a8c.jpg",
+    "static/media/road1.7795c8fd.jpg": "/hapebeast/static/media/road1.7795c8fd.jpg",
+    "static/media/road2.3ecba477.jpg": "/hapebeast/static/media/road2.3ecba477.jpg",
+    "static/media/road3.260ad715.jpg": "/hapebeast/static/media/road3.260ad715.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2337d0ba.js",
+    "static/js/2.cdb6c08d.chunk.js",
+    "static/css/main.6e3e5226.chunk.css",
+    "static/js/main.e7e80aa3.chunk.js"
+  ]
+}
